@@ -1,5 +1,4 @@
 
-## Hi there 👋
 
 Programador Front End, atualmente aprendendo e criando projetos com:
 
